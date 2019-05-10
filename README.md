@@ -51,5 +51,3 @@ MIT
 \*\*
 
 Copyright (c) 2019 **_Olha Wysocky_**
-
-;p
