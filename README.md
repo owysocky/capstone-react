@@ -20,8 +20,8 @@ _No known bugs._
   - _10 through Ace is -1_
 - _Keep total Running count_
 - _Calculate true count: Running count/decks remaining_
-  - _Standart blackjack has 6 decks_
-- _Subtract cards to keep track of how many decks ara left_
+  - _Standard blackjack has 6 decks_
+- _Subtract cards to keep track of how many decks are left_
 - _Raise bets when true count raises_
 
 ## Installation Requirements
