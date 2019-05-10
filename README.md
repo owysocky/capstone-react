@@ -48,6 +48,5 @@ _No known bugs._
 ### License
 
 MIT
-\*\*
 
 Copyright (c) 2019 **_Olha Wysocky_**
